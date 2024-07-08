@@ -1,3 +1,13 @@
+# Harkirat Notes
+
+## Week 16.1 
+
+https://app.100xdevs.com/courses/2/239/259
+
+## Week 16.2
+
+https://app.100xdevs.com/courses/2/239/260
+
 # Turborepo starter
 
 This is an official starter Turborepo.
